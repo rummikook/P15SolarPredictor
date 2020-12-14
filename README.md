@@ -16,3 +16,6 @@ production per day.
 
 This algorithms are integrated in a GUI. In the GUI you can predict the production 
 for a single day and the overall production and you can have a look at the cluster. 
+When the GUI asks for a file, then the file "weather_data_juli.txt" must be selected. 
+If the "Single Household" is used, then the household number must be entered before clicking the button.
+If the number is not an integer from 1 to 100, then it will not work.
